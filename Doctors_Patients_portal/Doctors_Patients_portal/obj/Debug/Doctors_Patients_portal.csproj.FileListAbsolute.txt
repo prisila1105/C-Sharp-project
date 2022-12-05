@@ -1,0 +1,94 @@
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe.config
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.pdb
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.login.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Properties.Resources.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.GenerateResource.cache
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.CoreCompileInputs.cache
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.signup.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.patientportal.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.phome.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.takeappoin.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.dhome.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Doctorsportal.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.drequests.resources
+D:\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.notificationsform.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe.config
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.pdb
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csprojResolveAssemblyReference.cache
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.dhome.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Doctorsportal.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.phome.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.signup.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Properties.Resources.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.GenerateResource.Cache
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Admin.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DRequest.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Notification.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PatientsPortal.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.TakeAppoinment.resources
+G:\csharp_project\csharp\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.LoginForm.resources
+C:\Users\PC 1\Downloads\Doctor-Patient-Portal-using-cSharp-master\Doctor-Patient-Portal-using-cSharp-master\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+C:\Users\PC 1\Downloads\Doctor-Patient-Portal-using-cSharp-master\Doctor-Patient-Portal-using-cSharp-master\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe.config
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.pdb
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.admin.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DHome.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DoctorsPortal.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DRequest.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Notification.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PatientsPortal.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PHome.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Signup.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.LoginForm.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.TakeAppoinment.resources
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+C:\Users\ASUS\source\repos\Doctor-patient-portal\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe.config
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.pdb
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csprojAssemblyReference.cache
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.admin.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DHome.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DoctorsPortal.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DRequest.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Notification.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PatientsPortal.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PHome.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Signup.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.LoginForm.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Properties.Resources.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.TakeAppoinment.resources
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.GenerateResource.cache
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.CoreCompileInputs.cache
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+C:\Users\NASA iT\source\repos\Doctor-patient\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe.config
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.exe
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\bin\Debug\Doctors_Patients_portal.pdb
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.admin.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DHome.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DoctorsPortal.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.DRequest.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Notification.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PatientsPortal.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.PHome.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Signup.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.LoginForm.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.Properties.Resources.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.TakeAppoinment.resources
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.exe
+C:\Users\HP\source\repos\doctor dddipu\Doctors_Patients_portal\Doctors_Patients_portal\obj\Debug\Doctors_Patients_portal.pdb
